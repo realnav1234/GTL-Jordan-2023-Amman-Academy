@@ -46,12 +46,25 @@ def parse(expression):
     This function takes in the expression we put into the calculator (which is a STRING).
     Ex. '5+3'
 
+
+
     OUTPUT:
     We want this function to RETURN a parsed expression, which is a LIST of the different numbers and symbols
     in our expression.
     Ex. [5, '+', 3]  NOTE: the numbers are ints, not strings, while the plus sign is a string.
 
+
+
     HINTS: 
+
+    You can use a FOR loop on strings. https://www.geeksforgeeks.org/iterate-over-characters-of-a-string-in-python/ 
+
+    for character in 'abcde':
+        print(character)
+    # this will print each letter individually
+
+    ---------------
+
     The built-in split() function might be useful. LEARN MORE: https://www.geeksforgeeks.org/python-string-split/
 
     '''
