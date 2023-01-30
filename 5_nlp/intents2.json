@@ -1,0 +1,98 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day",
+          "keefak",
+          "mar7aba",
+          "good morning",
+          "how are you doing?",
+          "bonjour",
+          "hola",
+          "Salam alikum",
+          "namaste",
+          "top of the morning to you"
+        ],
+        "responses": [
+          "Hey :-)",
+          "Hello, thanks for coming",
+          "how can I help you?",
+          "welcome to the cinema",
+          "what do you want to watch?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": [
+          "See you later, thanks for visiting",
+          "Have a nice day",
+          "Bye!",
+          "have a speedy recovery",
+          "hope to see you in a good shape"       
+        ]
+      },
+      
+      {
+        "tag": "specificMovies",
+        "patterns": [
+          "i want to watch a comedy",
+          "i want to watch spiderman",
+          "i would like to see superman",
+          "can i go to godzilla"
+        ],
+        "responses": [
+          "ok, we have seats available."
+        ]
+      },
+      {
+        "tag": "anyMovie",
+        "patterns": [
+          "what genres do you have",
+          "what movies do you have today?",
+          "what is available to watch?",
+          "what is playing?"
+        ],
+        "responses": [
+          "we have Iron Man, which is a superhero movie",
+          "we are playing Bullet Train, which is a thriller",
+          "we are showing the Emoji Movie, which is terrible."
+        ]
+      },
+      {
+        "tag": "ticketPrices",
+        "patterns": [
+          "what's the price of the ticket",
+          "how much is one ticket?",
+          "what's the price of what VIP ticket?"
+
+        ],
+        "responses": [
+          "all tickets are 10 JOD"
+        ]
+      },
+      {
+        "tag": "funny",
+        "patterns": [
+          "Tell me a joke!",
+          "Tell me something funny!",
+          "Do you know a joke?"
+        ],
+        "responses": [
+          "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+          "What did the buffalo say when his son left for college? Bison.",
+          "Buffalo buffalo buffalo."
+          
+        ]
+      }
+    ]
+  }
+
+
+  

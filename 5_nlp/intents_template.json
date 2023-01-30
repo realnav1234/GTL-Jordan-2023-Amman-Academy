@@ -1,0 +1,190 @@
+
+{
+    "intents": [
+    {
+        "tag": "tag1 here",
+        "patterns": [
+            "pattern 1", 
+            "pattern 2",
+            "pattern 3"
+          
+        ],
+        "responses": [
+            "response 1",
+            "response 2", 
+            "response 3"
+        ]
+      },
+      {
+        "tag": "tag here",
+        "patterns": [
+            "pattern 1", 
+            "pattern 2",
+            "pattern 3"
+          
+        ],
+        "responses": [
+            "response 1",
+            "response 2", 
+            "response 3"
+        ]
+      },
+      {
+        "tag": "tag here",
+        "patterns": [
+            "pattern 1", 
+            "pattern 2",
+            "pattern 3"
+          
+        ],
+        "responses": [
+            "response 1",
+            "response 2", 
+            "response 3"
+        ]
+      },
+      {
+        "tag": "tag here",
+        "patterns": [
+            "pattern 1", 
+            "pattern 2",
+            "pattern 3"
+          
+        ],
+        "responses": [
+            "response 1",
+            "response 2", 
+            "response 3"
+        ]
+      },
+      {
+        "tag": "tag here",
+        "patterns": [
+            "pattern 1", 
+            "pattern 2",
+            "pattern 3"
+          
+        ],
+        "responses": [
+            "response 1",
+            "response 2", 
+            "response 3"
+        ]
+      },
+      {
+        "tag": "tag here",
+        "patterns": [
+            "pattern 1", 
+            "pattern 2",
+            "pattern 3"
+          
+        ],
+        "responses": [
+            "response 1",
+            "response 2", 
+            "response 3"
+        ]
+      },
+      {
+        "tag": "tag here",
+        "patterns": [
+            "pattern 1", 
+            "pattern 2",
+            "pattern 3"
+          
+        ],
+        "responses": [
+            "response 1",
+            "response 2", 
+            "response 3"
+        ]
+      },
+      {
+        "tag": "tag here",
+        "patterns": [
+            "pattern 1", 
+            "pattern 2",
+            "pattern 3"
+          
+        ],
+        "responses": [
+            "response 1",
+            "response 2", 
+            "response 3"
+        ]
+      },
+      {
+        "tag": "tag here",
+        "patterns": [
+            "pattern 1", 
+            "pattern 2",
+            "pattern 3"
+          
+        ],
+        "responses": [
+            "response 1",
+            "response 2", 
+            "response 3"
+        ]
+      },
+      {
+        "tag": "tag here",
+        "patterns": [
+            "pattern 1", 
+            "pattern 2",
+            "pattern 3"
+          
+        ],
+        "responses": [
+            "response 1",
+            "response 2", 
+            "response 3"
+        ]
+      },
+      {
+        "tag": "tag here",
+        "patterns": [
+            "pattern 1", 
+            "pattern 2",
+            "pattern 3"
+          
+        ],
+        "responses": [
+            "response 1",
+            "response 2", 
+            "response 3"
+        ]
+      },
+      {
+        "tag": "tag here",
+        "patterns": [
+            "pattern 1", 
+            "pattern 2",
+            "pattern 3"
+          
+        ],
+        "responses": [
+            "response 1",
+            "response 2", 
+            "response 3"
+        ]
+      },
+      {
+        "tag": "tag here",
+        "patterns": [
+            "pattern 1", 
+            "pattern 2",
+            "pattern 3"
+          
+        ],
+        "responses": [
+            "response 1",
+            "response 2", 
+            "response 3"
+        ]
+      }
+      
+      
+    ]
+  }
+  
